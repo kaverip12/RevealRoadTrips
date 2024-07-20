@@ -1,6 +1,0 @@
-{
-    "yaml.schemas": {
-        "https://raw.githubusercontent.com/EnsembleUI/ensemble/main/assets/schema/ensemble_schema.json": "*.yaml"
-    },
-    "editor.tabSize": 2
-}
